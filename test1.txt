@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E28-8ACA
+
+ Directory of C:\Users\prabh\OneDrive\Documents\MyProject
+
+05/20/2026  11:03 PM    <DIR>          .
+05/20/2026  10:55 PM    <DIR>          ..
+05/20/2026  11:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  371,621,429,248 bytes free
